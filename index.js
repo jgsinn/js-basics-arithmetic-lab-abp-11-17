@@ -16,3 +16,4 @@ if (Number.isInteger(currentAge) == true){
 
 var randomNumber = Math.random() * 10
 var randomInteger = Math.floor(randomNumber)
+var randomUserID = randomInteger + 1000000000
