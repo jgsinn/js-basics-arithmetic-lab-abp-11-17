@@ -11,7 +11,7 @@ const newID = 1000000000 + oldID;
 var ageIsValid = false;
 
 
-if (Number.isInteger(currentAge) = true){
+if (Number.isInteger(currentAge) == true){
   ageIsValid = true;
 }
 
