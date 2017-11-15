@@ -7,3 +7,14 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
+const newID = 1000000000 + oldID;
+var ageIsValid = false;
+
+
+if (Number.isInteger(currentAge) = true){
+  ageIsValid = true;
+}
+
+else {
+  ageIsValid = false;
+}
