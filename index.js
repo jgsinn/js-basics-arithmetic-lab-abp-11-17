@@ -14,5 +14,4 @@ if (Number.isInteger(currentAge) == true){
   ageIsValid = true;
 }
 
-var randomNumber = Math.random()* 10
-
+var randomNumber = Math.random() * 10
