@@ -15,3 +15,4 @@ if (Number.isInteger(currentAge) == true){
 }
 
 var randomNumber = Math.random() * 100
+var randomInteger = Math.floor(randomNumber)
