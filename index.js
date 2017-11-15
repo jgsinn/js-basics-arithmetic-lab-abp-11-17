@@ -15,6 +15,4 @@ if (Number.isInteger(currentAge) == true){
   ageIsValid = true;
 }
 
-else {
-  ageIsValid = false;
-}
+
